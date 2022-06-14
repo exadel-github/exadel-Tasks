@@ -19,3 +19,8 @@
 ![image](https://user-images.githubusercontent.com/107425848/173610350-a01af3e8-1945-45f8-9b6e-cc33bbc471b3.png)
 
 
+
+11. Create Pull Request to the dev branch.
+12. Merge your branch with the dev branch and create Pull Request to the master(main) branch. Merge dev with master(main).
+
+
